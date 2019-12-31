@@ -31,5 +31,8 @@
 The prediction worked for the couple of single image prediction made.
 ![ ](https://github.com/sumanp31/CNN_cat_and_dog_classifier/blob/master/result1.png  "Consol Output")
 
-It can be seen from the consol output that the final output has a training set accuracy of 99% and validation set accuracy of 85%.
+It can be seen from the consol output that the final output has a training set accuracy of 99% and validation set accuracy of 88%.
 I am still working on the overfitting.
+
+From the below image, it can be seen that the model predicts the images correctly. check the 2 images for reference.
+![ ](https://github.com/sumanp31/CNN_cat_and_dog_classifier/blob/master/result2.png  "Consol Output")
