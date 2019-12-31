@@ -29,7 +29,7 @@
 
 ## Output
 The prediction worked for the couple of single image prediction made.
-![ ](https://github.com/sumanp31/CNN_cat_and_dog_classifier/blob/master/Screenshot%20from%202019-12-27%2000-59-13.png  "Consol Output")
+![ ](https://github.com/sumanp31/CNN_cat_and_dog_classifier/blob/master/result1.png  "Consol Output")
 
 It can be seen from the consol output that the final output has a training set accuracy of 99% and validation set accuracy of 85%.
 I am still working on the overfitting.
